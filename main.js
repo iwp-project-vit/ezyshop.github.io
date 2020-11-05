@@ -1,5 +1,6 @@
 $(document).ready(function(){
 	cat();
+	
 	brand();
 	product();
 	//cat() is a funtion fetching category record from database whenever page is load
